@@ -1,6 +1,6 @@
 Robofriends App
 
-Learning to use REACT to create an app within the ZTM: The Complete Web Developer 2022.
+Learning to use REACT + REDUX to create an app within the ZTM: The Complete Web Developer 2022.
 
 Search for a robot which is available on the home screen.
 
